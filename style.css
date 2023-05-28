@@ -1,3 +1,16 @@
-header{
-    background-color: #577279;
+body{
+    background-color: #c1f7ee;
+    color: rgb(0, 0, 0);
+}
+
+.cabecalhoimagem{
+    width: 100%;
+}
+
+.colegio{
+    text-align: center;
+}
+
+.fundacao{
+    text-align: center;
 }
